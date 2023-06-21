@@ -7,7 +7,10 @@
 
 // Example 4 - Data types
 // In Dart there are 5 basic data types: int, double, String, bool, dynamic.
-void main() {}
+void main() {
+  int amount1 = 100;
+  var amount2 = 200;
+}
 
 // Example 3 - Import a package and get data form the user
 // import 'dart:io';
